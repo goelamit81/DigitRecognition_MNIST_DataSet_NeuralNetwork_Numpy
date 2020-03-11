@@ -1,4 +1,4 @@
-# HandWrittenDigitRecognition_MNIST_DataSet_NeuralNetwork_Numpy
+# DigitRecognition_MNIST_DataSet_NeuralNetwork_Numpy
 Hand Written Digit Recognition for MNIST DataSet using NeuralNetwork in Numpy
 
 
